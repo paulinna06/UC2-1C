@@ -14,7 +14,7 @@
 
 ## Links
 
-- Trello 1 Link 1:[clica aqui](ttps://trello.com/invite/b/eNy3YtxT/ATTIbc59786df21b41a3af9f18d75236446101D019D2/projeto).
+- trello 1 link 1:[clica aqui](ttps://trello.com/invite/b/eNy3YtxT/ATTIbc59786df21b41a3af9f18d75236446101D019D2/projeto).
 - trello 2 link 2:[clica aqui](https://trello.com/invite/b/dCTrS5Hn/ATTIdf925c8cb31907371d89bb1398f705f91FA7ED14/meu-planejamento).
 - Linguagem Swift 1 Link 1:[clica aqui](https://www.canva.com/design/DAGE1QmbvAk/JbHnHo2CwcOJXQ7Ftqz6_A/edit?utm_content=DAGE1QmbvAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 

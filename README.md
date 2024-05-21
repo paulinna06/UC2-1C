@@ -17,4 +17,4 @@
 - trello 1 link 1:[clica aqui](https://trello.com/b/dCTrS5Hn/meu-planejamento).
 - trello 2 link 2:[clica aqui](https://trello.com/invite/b/dCTrS5Hn/ATTIdf925c8cb31907371d89bb1398f705f91FA7ED14/meu-planejamento).
 - Linguagem Swift 1 Link 1:[clica aqui](https://www.canva.com/design/DAGE1QmbvAk/JbHnHo2CwcOJXQ7Ftqz6_A/edit?utm_content=DAGE1QmbvAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-
+- Emprego dos sonhos link:[clica aqui](https://docs.google.com/document/d/1R443QyrQ84VuDk37M1hAl_Oths3TiQwM9hSWG2quS84/edit?usp=drivesdk).
